@@ -3,7 +3,7 @@ import random
 def guess_the_number():
     secret_number = random.randint(1, 100)
     attempts = 0
-    max_attempts = 5
+    max_attempts = 7
 
     print('*' * 40)
     print("Welcome to 'Guess the Number'!")

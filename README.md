@@ -1,2 +1,2 @@
 # the-first-small-game
-Building a small 2D game in Python.
+Building some small games in Python.
